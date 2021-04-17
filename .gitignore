@@ -1,0 +1,5 @@
+.idea
+.DS_Store
+nohup.out
+logs/*
+data/*
